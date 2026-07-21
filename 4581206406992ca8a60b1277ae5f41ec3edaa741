@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7595bbde_f2eb7a15",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2026-07-21T06:16:24Z",
+      "side": 1,
+      "message": "Is that a \"LineageOS\" repo too like the other ones? If so, doesn\u0027t it need \"LineageOS/\" at the beginning too?",
+      "revId": "4581206406992ca8a60b1277ae5f41ec3edaa741",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
