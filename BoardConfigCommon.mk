@@ -24,3 +24,6 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
 
 # WiFi
 include device/google/gs101/wifi/BoardConfig-wifi.mk
+
+# GApps reserved
+include vendor/aicp/config/BoardConfigReservedSize.mk
