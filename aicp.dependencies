@@ -1,17 +1,17 @@
 [
   {
     "repository": "LineageOS/android_device_google_gs101",
-    "target_path": "device/google/gs101"
+    "target_path": "device/google/gs101",
     "branch":      "lineage-23.2"
   },
   {
     "repository": "LineageOS/android_device_google_raviole-kernels",
-    "target_path": "device/google/raviole-kernels"
+    "target_path": "device/google/raviole-kernels",
     "branch":      "lineage-23.2"
   },
   {
     "repository": "LineageOS/android_device_google_gs-common",
-    "target_path": "device/google/gs-common"
+    "target_path": "device/google/gs-common",
     "branch":      "lineage-23.2"
   },
   {
